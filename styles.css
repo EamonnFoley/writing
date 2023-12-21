@@ -110,10 +110,11 @@ ul li{
   padding: 0 20px;
   margin-right: 40px;
     border: solid orange;
-
+border-radius: 4px;
 }
 
 .navt {
   color: white;
   text-decoration: none;
+  font-family: Georgia, Arial
 }
