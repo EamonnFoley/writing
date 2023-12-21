@@ -109,7 +109,7 @@ ul li{
   display: inline-block;
   padding: 0 20px;
   margin-right: 40px;
-    border: solid orange;
+  border: 1px solid orange;
 border-radius: 4px;
 }
 
