@@ -92,3 +92,28 @@ div {
 @media (prefers-color-scheme: dark) {
 
 }
+
+.parentDiv {
+  position: relative;
+  width: 100%;
+  background-color: #252526;
+  color: white;
+}
+
+.nav-acts {
+  text-align: center;
+  
+}
+
+ul li{
+  display: inline-block;
+  padding: 0 20px;
+  margin-right: 40px;
+    border: solid orange;
+
+}
+
+.navt {
+  color: white;
+  text-decoration: none;
+}
